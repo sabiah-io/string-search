@@ -15,7 +15,7 @@ def search(string, list_value, size):
     '''
     search_result = -1
     for i in range(size):
-        # converting each element in the main string into a sub-list
+        # converting each element in the main list into a sub-list
         record = 0
         inner_list = list_value[i].upper().split(" ")
 
