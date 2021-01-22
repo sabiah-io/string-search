@@ -1,6 +1,6 @@
 # string-search 🔍
 
-Finds the position of a string in given list of strings.
+Finds the position of a string in a given list of strings.
 
 Run the _search.py_ file.
 
